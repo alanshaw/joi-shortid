@@ -15,11 +15,20 @@
   "author": "Alan Shaw",
   "license": "ISC",
   "devDependencies": {
+    "joi": "^7.2.3",
     "shortid": "^2.2.2",
     "standard": "^5.1.0",
     "tape": "^4.2.0"
   },
-  "dependencies": {
-    "joi": "^6.6.1"
-  }
+  "peerDependencies": {
+    "joi": "^7.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/joi-shortid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/joi-shortid/issues"
+  },
+  "homepage": "https://github.com/alanshaw/joi-shortid#readme"
 }
