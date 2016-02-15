@@ -1,6 +1,6 @@
 {
   "name": "joi-shortid",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Joi validation for shortid",
   "main": "index.js",
   "scripts": {
