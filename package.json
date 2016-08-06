@@ -10,18 +10,19 @@
     "shortid",
     "joi",
     "validate",
-    "validation"
+    "validation",
+    "extension"
   ],
   "author": "Alan Shaw",
   "license": "ISC",
   "devDependencies": {
-    "joi": "^8.0.1",
+    "joi": "^9.0.4",
     "shortid": "^2.2.2",
     "standard": "^6.0.5",
     "tape": "^4.2.0"
   },
   "peerDependencies": {
-    "joi": "^8.0.1"
+    "joi": "^9.0.4"
   },
   "repository": {
     "type": "git",
